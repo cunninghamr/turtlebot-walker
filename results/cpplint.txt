@@ -1,0 +1,7 @@
+./src/main.cpp:32:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./src/main.cpp:35:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+./src/walker.cpp:20:  Lines should be <= 80 characters long  [whitespace/line_length] [2]
+Done processing ./include/walker.hpp
+Done processing ./src/main.cpp
+Done processing ./src/walker.cpp
+Total errors found: 3
